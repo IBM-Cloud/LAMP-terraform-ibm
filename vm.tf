@@ -58,7 +58,7 @@ variable "ssh_user" {
   description = "The default username for the VM."
 }
 variable "ssh_label" {
-  default = "public ssh key - Schematics VM"
+  default = "public ssh key - VM"
   description = "An identifying label to assign to the SSH key."
 }
 variable "ssh_notes" {
