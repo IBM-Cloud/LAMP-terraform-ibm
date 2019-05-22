@@ -78,7 +78,7 @@ variable "ssh_notes" {
 }
 
 variable "ssh_key" {
-  default     = "<ADD-SSH-KEY-HERE>"
+  default     = "ssh_key"
   description = "Your public SSH key to access the VM."
 }
 

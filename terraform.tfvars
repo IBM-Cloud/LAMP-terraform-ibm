@@ -12,3 +12,6 @@ org_name = "<ADD-your-org-name>"
 
 # Enter your IBM Cloud space name, you can get your space name under your IBM Cloud dashboard account: https://console.bluemix.net/dashboard
 space_name = "<ADD-your-space-name>"
+
+# Enter your public SSH key to access the VM.
+ssh_key = "<ADD-SSH-KEY-HERE>"
