@@ -58,7 +58,7 @@ variable "network_speed" {
 }
 
 variable "tags" {
-  default     = "LAMP"
+  default     = "lamp"
   description = "Descriptive tags to label the resource."
 }
 
