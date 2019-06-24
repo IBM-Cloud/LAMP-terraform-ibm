@@ -1,0 +1,6 @@
+# See tutorial for more details
+softlayer_username = "<ADD-Softlayer-Username-here>"
+softlayer_api_key = "<ADD-Softlayer-API-KEY-here>"
+ibmcloud_api_key = "<ADD-IBM-Cloud-Api-key>"
+# Enter that long string that is your public contents of the SSH key pair (not the private key)
+ssh_key = "<ADD-SSH-KEY-HERE>"

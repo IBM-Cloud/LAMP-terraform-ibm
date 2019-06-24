@@ -57,5 +57,13 @@ typings/
 # dotenv environment variables file
 .env
 
+#vim swap files
+[._]*.sw[a-p]
 
-.terraform/plugins/darwin_amd64/lock.json
+# 
+terraform.tfvars
+
+#
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
