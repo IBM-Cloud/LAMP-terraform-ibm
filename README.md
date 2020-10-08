@@ -1,3 +1,5 @@
+<span style="color:red">This repository is archived as the associated tutorial was retired in favor of the LAMP Stack on VPC tutorial: https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-lamp-stack-on-vpc</span>
+
 # Deploy a LAMP stack using Terraform
 
 [Terraform](https://www.terraform.io/) enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
